@@ -1,0 +1,1 @@
+{"v": 1, "kdf": "PBKDF2-SHA256", "iter": 600000, "salt": "ZGklTP9hDwmkMVKglpKi5A==", "cipher": "AES-256-GCM", "built_at": "2026-11-27T23:05:25+00:00"}
